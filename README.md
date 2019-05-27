@@ -1,2 +1,3 @@
-# toy_tf
-简单的tensorflow（1.8.0）测试
+# 简单的tensorflow测试，使用的tensorflow版本为1.8.0
+### 使用方法
+python FGK_attention_keras.py
